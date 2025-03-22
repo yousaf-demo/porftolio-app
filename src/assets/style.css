@@ -48,8 +48,12 @@
     border: none;
     padding: 15px 50px;
 }
+.wrapper-heading-2{
+    text-align: -webkit-right;
+}
+
 .wrapper-heading-2 .img-wrapper{
-width: 100%;
+width: 410px;
 height: 410px;
 }
 .wrapper-heading-2 .img-wrapper img{
@@ -69,6 +73,27 @@ height: 100px;
     width: 100%;
     height: 100%;
     object-fit:scale-down;
+}
+.wrapper-card {
+   
+    text-align: -webkit-center;
+    
+}
+.wrapper-card .card-img-wrapper{
+    width:102px;
+    height:102px;
+    margin-bottom: 30px;
+   
+    text-align: center;
+}
+.wrapper-card .card-img-wrapper img{
+    width: 100px;
+    height:100%;
+    object-fit: cover;
+}
+.wrapper-card h4{
+    margin-bottom: 30px;
+    
 }
 
 /* ################## header css end ###################### */

@@ -54,6 +54,38 @@
         </div>
     </div>
 
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="wrapper-card">
+                    <div class="card-img-wrapper">
+                        <img src="../assets/card1.png" alt="">
+                    </div>
+                    <h4>Product Design</h4>
+                    <p>This is a template Figma file, turned into code using Anima. Learn more at AnimaApp.com</p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="wrapper-card">
+                    <div class="card-img-wrapper">
+                        <img src="../assets/card2.png" alt="">
+                    </div>
+                    <h4>Visual Design</h4>
+                    <p>This is a template Figma file, turned into code using Anima. Learn more at AnimaApp.com</p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="wrapper-card">
+                    <div class="card-img-wrapper">
+                        <img src="../assets/card3.png" alt="">
+                    </div>
+                    <h4>Product Design</h4>
+                    <p>This is a template Figma file, turned into code using Anima. Learn more at AnimaApp.com</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
 </section>
 </template>
 <script>
