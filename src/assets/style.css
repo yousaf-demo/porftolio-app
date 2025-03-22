@@ -1,0 +1,25 @@
+
+/* ################### navbar css start #######################*/
+.navbar-brand img{
+    width: 100%;
+    height: 100%;
+}
+.logo-wrapper {
+    width: 50px;
+    height: 50px;
+}
+
+.navbar-wrapper .logo-wrapper img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.collapse .navbar-nav .nav-item .nav-link{
+
+    color: #2D2D2D;
+    font-family: Epilogue;
+    font-size: 16px;
+}
+/* ################### navbar css end #######################*/
+
+
