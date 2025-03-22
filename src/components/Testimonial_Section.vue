@@ -1,7 +1,10 @@
 <template>
     <section>
         <div class="container">
-            <h1>Testimonial</h1>
+            <div class="text-center">
+                <h1>Testimonial </h1>
+            </div>
+           
         </div>
     </section>
 </template>
