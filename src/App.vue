@@ -1,14 +1,17 @@
 <template>
   <MainNavbar/>
+  <MainHeader/>
 </template>
 
 <script>
+import MainHeader from './components/MainHeader.vue';
 import MainNavbar from './components/MainNavbar.vue';
 
 export default {
   name: 'App',
   components: {
     MainNavbar,
+    MainHeader,
   }
 }
 </script>
