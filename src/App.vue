@@ -1,9 +1,11 @@
 <template>
   <MainNavbar/>
   <MainHeader/>
+  <LatestWork/>
 </template>
 
 <script>
+import LatestWork from './components/LatestWork.vue';
 import MainHeader from './components/MainHeader.vue';
 import MainNavbar from './components/MainNavbar.vue';
 
@@ -12,6 +14,7 @@ export default {
   components: {
     MainNavbar,
     MainHeader,
+    LatestWork,
   }
 }
 </script>
