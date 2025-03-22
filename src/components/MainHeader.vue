@@ -79,7 +79,7 @@
                     <div class="card-img-wrapper">
                         <img src="../assets/card3.png" alt="">
                     </div>
-                    <h4>Product Design</h4>
+                    <h4>Art Direction</h4>
                     <p>This is a template Figma file, turned into code using Anima. Learn more at AnimaApp.com</p>
                 </div>
             </div>
