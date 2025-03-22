@@ -2,12 +2,14 @@
   <MainNavbar/>
   <MainHeader/>
   <LatestWork/>
+  <Testimonial_Section/>
 </template>
 
 <script>
 import LatestWork from './components/LatestWork.vue';
 import MainHeader from './components/MainHeader.vue';
 import MainNavbar from './components/MainNavbar.vue';
+import Testimonial_Section from './components/Testimonial_Section.vue';
 
 export default {
   name: 'App',
@@ -15,6 +17,7 @@ export default {
     MainNavbar,
     MainHeader,
     LatestWork,
+    Testimonial_Section
   }
 }
 </script>
